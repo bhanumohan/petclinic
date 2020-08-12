@@ -6,6 +6,7 @@
   <groupId>org.springframework.samples</groupId>
   <artifactId>springboot-petclinic</artifactId>
   <version>1.4.1</version>
+    <url>https://github.com/bhanumohan/petclinic.git</url>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
